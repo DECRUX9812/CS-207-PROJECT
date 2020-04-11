@@ -1,5 +1,3 @@
-//www.elegoo.com
-
 #include <Servo.h>  //servo library
 Servo myservo;      // create servo object to control servo
 
